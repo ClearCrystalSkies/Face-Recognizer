@@ -1,0 +1,10 @@
+body{
+    background: rgb(241, 241, 147);
+}
+h1{
+    background-color: palevioletred;
+}
+p{
+    background-color: pink;
+    width: 30%;
+}
